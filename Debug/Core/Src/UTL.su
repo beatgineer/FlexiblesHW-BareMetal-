@@ -1,0 +1,9 @@
+../Core/Src/UTL.c:102:7:pucUTL_eSearchCharInBytes_Exe	32	static
+../Core/Src/UTL.c:136:9:ucUTL_eSearchNumOfCharInBytes_Exe	24	static
+../Core/Src/UTL.c:169:7:pucUTL_eSearchChar_Exe	32	static
+../Core/Src/UTL.c:198:6:vUTL_eClearBuffer_Exe	16	static
+../Core/Src/UTL.c:218:9:ucUTL_eCalculateCheckSum_Exe	24	static
+../Core/Src/UTL.c:242:9:ucUTL_eCalculateCheckSumBy2sComplement_Exe	24	static
+../Core/Src/UTL.c:273:6:bUTL_eCompareData_Exe	32	static
+../Core/Src/UTL.c:312:9:ucUTL_eASCIIChar2HexChar_Exe	24	static
+../Core/Src/UTL.c:344:9:ucUTL_eHexChar2ASCIIChar_Exe	16	static

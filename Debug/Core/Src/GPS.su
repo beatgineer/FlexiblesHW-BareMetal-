@@ -1,0 +1,8 @@
+../Core/Src/GPS.c:51:6:vGPS_eInit	32	static
+../Core/Src/GPS.c:92:9:ucGPS_eGetGPSPowerStatus_Exe	40	static
+../Core/Src/GPS.c:138:6:vGPS_eSetGPSPower_Exe	32	static
+../Core/Src/GPS.c:171:6:vGPS_eStartGPS_Exe	24	static
+../Core/Src/GPS.c:219:6:bGPS_eGetGPSLoc_Exe	40	static
+../Core/Src/GPS.c:384:6:vGPS_eReadGPSData_Exe	8	static
+../Core/Src/GPS.c:397:13:vGPS_iResetGPS_Exe	16	static
+../Core/Src/GPS.c:414:6:vGPS_eOperateGPSLED_Exe	8	static

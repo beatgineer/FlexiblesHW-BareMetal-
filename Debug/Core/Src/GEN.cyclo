@@ -1,0 +1,3 @@
+../Core/Src/GEN.c:33:6:vGEN_eLoadAndParseData_Exe	2
+../Core/Src/GEN.c:165:6:vGEN_eLoadTxRate_Exe	3
+../Core/Src/GEN.c:257:6:vGEN_eSendBattRemovedEventData_Exe	1
